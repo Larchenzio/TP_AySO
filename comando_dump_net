@@ -1,0 +1,7 @@
+#Comando para realizar un "dump traffic"
+>tcpdump (8)          - dump traffic on a network
+
+#El comando para ejecutar dicha busqueda son:
+>man -k "dump traffic"
+>apropos "dump traffic"
+
